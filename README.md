@@ -1,0 +1,4 @@
+Skeleton
+========
+
+My skeleton
